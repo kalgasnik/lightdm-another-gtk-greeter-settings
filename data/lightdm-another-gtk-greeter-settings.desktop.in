@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=lightdm-another-gtk-greeter-settings
+_Name=Another Gtk+ Greeter preferences editor
+Categories=Settings;Gtk;DesktopSettings
+Icon=preferences

@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-05 12:19+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/interface.ui.h:1
+msgid "Power"
+msgstr ""
+
+#: ../data/interface.ui.h:2
+msgid "Clock"
+msgstr ""
+
+#: ../data/interface.ui.h:3
+msgid "Accessibility"
+msgstr ""
+
+#: ../data/interface.ui.h:4
+msgid "Layout"
+msgstr ""
+
+#: ../data/interface.ui.h:5
+msgid "_Reset to initial state"
+msgstr ""
+
+#: ../data/interface.ui.h:6
+msgid "Theme:"
+msgstr ""
+
+#: ../data/interface.ui.h:7
+msgid "Icon theme:"
+msgstr ""
+
+#: ../data/interface.ui.h:8
+msgid "Font:"
+msgstr ""
+
+#: ../data/interface.ui.h:9
+msgid "UI file:"
+msgstr ""
+
+#: ../data/interface.ui.h:10
+msgid "Styles file:"
+msgstr ""
+
+#: ../data/interface.ui.h:11
+msgid "DPI:"
+msgstr ""
+
+#: ../data/interface.ui.h:12
+msgid "Background:"
+msgstr ""
+
+#: ../data/interface.ui.h:13
+msgid "Logo:"
+msgstr ""
+
+#: ../data/interface.ui.h:14
+msgid "Date format:"
+msgstr ""
+
+#: ../data/interface.ui.h:15
+msgid "Appearance"
+msgstr ""
+
+#: ../data/interface.ui.h:16
+msgid "Allow manual user name enter"
+msgstr ""
+
+#: ../data/interface.ui.h:17
+msgid "Allow user to select session language"
+msgstr ""
+
+#: ../data/interface.ui.h:18
+msgid "Show session icon"
+msgstr ""
+
+#: ../data/interface.ui.h:19
+msgid "Greeter"
+msgstr ""
+
+#: ../data/interface.ui.h:20
+msgid "Show panel"
+msgstr ""
+
+#: ../data/interface.ui.h:21
+msgid "top"
+msgstr ""
+
+#: ../data/interface.ui.h:22
+msgid "bottom"
+msgstr ""
+
+#: ../data/interface.ui.h:23
+msgid "Show panel at:"
+msgstr ""
+
+#: ../data/interface.ui.h:25
+#, no-c-format
+msgid ""
+"Time/date format:\n"
+"\t%T...\n"
+"\t%h, %m, %s"
+msgstr ""
+
+#: ../data/interface.ui.h:28
+msgid "Time format:"
+msgstr ""
+
+#: ../data/interface.ui.h:29
+msgid "Show calendar in menu"
+msgstr ""
+
+#: ../data/interface.ui.h:30
+msgid "_Shutdown"
+msgstr ""
+
+#: ../data/interface.ui.h:31
+msgid "_Restart"
+msgstr ""
+
+#: ../data/interface.ui.h:32
+msgid "Sus_pend"
+msgstr ""
+
+#: ../data/interface.ui.h:33
+msgid "_Hibernate"
+msgstr ""
+
+#: ../data/interface.ui.h:34
+msgid "Show confirmation dialog for:"
+msgstr ""
+
+#: ../data/interface.ui.h:35
+msgid "No options"
+msgstr ""
+
+#: ../data/interface.ui.h:36
+msgid "Font scale:"
+msgstr ""
+
+#: ../data/interface.ui.h:37
+msgid "Disable menu entry"
+msgstr ""
+
+#: ../data/interface.ui.h:38
+msgid "Contrast mode:"
+msgstr ""
+
+#: ../data/interface.ui.h:39
+msgid "Gtk theme:"
+msgstr ""
+
+#: ../data/interface.ui.h:40
+msgid "Icons theme:"
+msgstr ""
+
+#: ../data/interface.ui.h:41
+msgid "Onboard keyboard:"
+msgstr ""
+
+#: ../data/interface.ui.h:42
+msgid "onboard"
+msgstr ""
+
+#: ../data/interface.ui.h:43
+msgid "Custom command:"
+msgstr ""
+
+#: ../data/interface.ui.h:44
+msgid "Indicators"
+msgstr ""
+
+#: ../data/lightdm-another-gtk-greeter-settings.desktop.in.h:1
+msgid "Another Gtk+ Greeter preferences editor"
+msgstr ""

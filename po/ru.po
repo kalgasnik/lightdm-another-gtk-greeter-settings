@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lightdm-another-gtk-greeter-settings\n"
+"POT-Creation-Date: 2013-05-30 10:00+0300\n"
+"PO-Revision-Date: 2013-06-05 11:47+0300\n"
+"Last-Translator: andrew.p <pan.pav.7c5@gmail.com>\n"
+"Language-Team:  <pan.pav.7c5@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../data\n"
+"X-Poedit-SearchPath-1: ../src/application\n"
+
+#: ../data/interface.ui:73
+msgid "_Reset to initial state"
+msgstr "Сбросить значение"
+
+#: ../data/interface.ui:122
+msgid "Theme:"
+msgstr "Тема:"
+
+#: ../data/interface.ui:153
+msgid "Icon theme:"
+msgstr "Тема иконок:"
+
+#: ../data/interface.ui:183
+msgid "Font:"
+msgstr "Шрифт:"
+
+#: ../data/interface.ui:215
+msgid "UI file:"
+msgstr "UI файл:"
+
+#: ../data/interface.ui:244
+msgid "Styles file:"
+msgstr "Файл стилей:"
+
+#: ../data/interface.ui:273
+msgid "DPI:"
+msgstr "DPI:"
+
+#: ../data/interface.ui:306
+msgid "Background:"
+msgstr "Задний фон:"
+
+#: ../data/interface.ui:399
+msgid "Logo:"
+msgstr "Лого:"
+
+#: ../data/interface.ui:491 ../data/interface.ui:913
+msgid "Date format:"
+msgstr "Формат даты:"
+
+#: ../data/interface.ui:531
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: ../data/interface.ui:550
+msgid "Allow manual user name enter"
+msgstr "Разрешить вводить имя пользователя вручную"
+
+#: ../data/interface.ui:566
+msgid "Allow user to select session language"
+msgstr "Отображать список доступных языков"
+
+#: ../data/interface.ui:582
+msgid "Show session icon"
+msgstr "Отображать иконку выбранного окружения рабочего стола"
+
+#: ../data/interface.ui:642
+msgid "Greeter"
+msgstr "Greeter"
+
+#: ../data/interface.ui:677
+msgid "Show panel"
+msgstr "Отображать панель"
+
+#: ../data/interface.ui:702
+msgid "top"
+msgstr "сверху"
+
+#: ../data/interface.ui:718
+msgid "bottom"
+msgstr "снизу"
+
+#: ../data/interface.ui:743
+msgid "Show panel at:"
+msgstr "Положение панели:"
+
+#: ../data/interface.ui:868
+msgid ""
+"Time/date format:\n"
+"\t%T...\n"
+"\t%h, %m, %s"
+msgstr "Формат даты/времени:"
+
+#: ../data/interface.ui:897
+msgid "Time format:"
+msgstr "Формат времени:"
+
+#: ../data/interface.ui:944
+msgid "Show calendar in menu"
+msgstr "Показывать календарь"
+
+#: ../data/interface.ui:971
+msgid "Clock"
+msgstr "Часы"
+
+#: ../data/interface.ui:1037
+msgid "_Shutdown"
+msgstr "_Выключения компьютера"
+
+#: ../data/interface.ui:1054
+msgid "_Restart"
+msgstr "_Перезагрузки"
+
+#: ../data/interface.ui:1071
+msgid "Sus_pend"
+msgstr "Перехода в _ждущий режим"
+
+#: ../data/interface.ui:1088
+msgid "_Hibernate"
+msgstr "Перехода в _спящий режим"
+
+#: ../data/interface.ui:1108
+msgid "Show confirmation dialog for:"
+msgstr "Показывать диалог подтверждения для:"
+
+#: ../data/interface.ui:1126
+msgid "Power"
+msgstr "Выключение"
+
+#: ../data/interface.ui:1142
+msgid "No options"
+msgstr "Нет опций"
+
+#: ../data/interface.ui:1165
+msgid "Layout"
+msgstr "Раскладка"
+
+#: ../data/interface.ui:1193
+msgid "Font scale:"
+msgstr "Масштаб шрифта:"
+
+#: ../data/interface.ui:1253
+msgid "Disable menu entry"
+msgstr "Отключить пункт меню"
+
+#: ../data/interface.ui:1299
+msgid "Contrast mode:"
+msgstr "Контрастный вид:"
+
+#: ../data/interface.ui:1319
+msgid "Gtk theme:"
+msgstr "Тема Gtk:"
+
+#: ../data/interface.ui:1351
+msgid "Icons theme:"
+msgstr "Тема иконок:"
+
+#: ../data/interface.ui:1394
+msgid "Onboard keyboard:"
+msgstr "Экранная клавиатура:"
+
+#: ../data/interface.ui:1434
+msgid "onboard"
+msgstr "onboard"
+
+#: ../data/interface.ui:1455
+msgid "Custom command:"
+msgstr "Другая программа:"
+
+#: ../data/interface.ui:1542
+msgid "Accessibility"
+msgstr "Спец. возможности"
+
+#: ../data/interface.ui:1573
+msgid "Indicators"
+msgstr "Индикаторы"
+
+msgid "Another Gtk+ Greeter preferences editor"
+msgstr "Редактор настроек для Another Gtk+ Greeter"
+
+#~ msgid "_Name"
+#~ msgstr "NNNNNNAME"
+
+#~ msgid "AAA"
+#~ msgstr "aaaaaaa"
+
+#~ msgid "Show _shutdown confirmation dialog"
+#~ msgstr "Диалог подтверждения действия при выключении компьютера"
+
+#~ msgid "Show sus_pend confirmation dialog"
+#~ msgstr "Диалог подтверждения действия при входе в ждущий режим"
+
+#~ msgid "Show _hibernate confirmation dialog"
+#~ msgstr "Диалог подтверждения действия при входе в спящий режим"
